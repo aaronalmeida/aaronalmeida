@@ -1,8 +1,6 @@
 ### Hi There! 👋
 
 
-![Test Image 1](https://imgur.com/EoTJuLP)
-
 My name is Aaron and I'm currently working in Montreal, Canada, as a Software Engineer Intern at Coveo.
 
 - 🔭 When I'm not working at my internship, I enjoy exploring full stack development and working as a freelancer building sites for small businesses! 
