@@ -9,4 +9,4 @@ My name is Aaron and I'm currently working in Montreal, Canada, as a Software En
 
 - 😄 Hobbies: I love to hike, workout, read, play the occasional video game, and travel. 
 
-- 💬 Get in touch with me! I'd love to connect and have a (virtual) coffe chat: linkedin.com/in/aaronalm/. 
+- 💬 Get in touch with me! I'd love to connect and have a (virtual) coffee chat: linkedin.com/in/aaronalm/. 
